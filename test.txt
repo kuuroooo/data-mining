@@ -1,0 +1,27 @@
+Unnamed: 0       id                time            variable  value  \
+5708         5709  AS14.01 2014-04-02 18:00:00  circumplex.arousal    NaN   
+5730         5731  AS14.01 2014-04-07 15:00:00  circumplex.arousal    NaN   
+5772         5773  AS14.01 2014-04-16 12:00:00  circumplex.arousal    NaN   
+5796         5797  AS14.01 2014-04-21 13:00:00  circumplex.arousal    NaN   
+5835         5836  AS14.01 2014-04-29 09:00:00  circumplex.arousal    NaN   
+...           ...      ...                 ...                 ...    ...   
+16858       16859  AS14.33 2014-05-16 20:00:00  circumplex.valence    NaN   
+16861       16862  AS14.33 2014-05-17 12:00:00  circumplex.valence    NaN   
+16881       16882  AS14.33 2014-05-21 16:00:00  circumplex.valence    NaN   
+16898       16899  AS14.33 2014-05-24 23:00:00  circumplex.valence    NaN   
+16902       16903  AS14.33 2014-05-25 21:00:00  circumplex.valence    NaN   
+
+             date  
+5708   2014-04-02  
+5730   2014-04-07  
+5772   2014-04-16  
+5796   2014-04-21  
+5835   2014-04-29  
+...           ...  
+16858  2014-05-16  
+16861  2014-05-17  
+16881  2014-05-21  
+16898  2014-05-24  
+16902  2014-05-25  
+
+[202 rows x 6 columns]
